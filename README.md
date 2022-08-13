@@ -5,6 +5,8 @@
 
 ## [Follow me on Instagram](https://www.instagram.com/aslamkhan_17/)
 
+## [Connect with me on Linkedin](https://www.linkedin.com/in/aslam-asgar-khan/)
+
 ### Code Requirements
 - Opencv(`pip install opencv-python`)
 - Tkinter(Available in python)
