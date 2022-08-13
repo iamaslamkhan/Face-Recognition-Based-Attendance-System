@@ -1,12 +1,9 @@
-##  Face Recognition Based Attendance Management system using Face👦🏻👧 Recognition [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg)](https://github.com/Spidy20/Attendace_management_system/blob/master/LICENSE)
+##  Face Recognition Based Attendance Management System 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
-## [Follow us on Instagram for Machine Learning Guidelines & Path](https://www.instagram.com/machine_learning_hub.ai/)
-## [Buy Python & ML projects for students at lower rate](https://www.instamojo.com/kushalbhavsar1820)
-
-
+## [Follow me on Instagram](https://www.instagram.com/aslamkhan_17/)
 
 ### Code Requirements
 - Opencv(`pip install opencv-python`)
@@ -30,30 +27,6 @@
 - it will create `.csv` file of attendance according to time & subject.
 - You can store data in database (install wampserver),change the DB name according to your in `AMS_Run.py`.
 - `Manually Fill Attendace` Button in UI is for fill a manually attendance (without facce recognition),it's also create a `.csv` and store in a database.
-
-### Screenshots
-
-### Basic UI
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(43).png">
-
-### When it's Recognise me
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(41).png">
-
-### When it's fill a attendace
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(42).png">
-
-### Manually attendance filling UI
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(44).png">
-
-
-### How it works? See:)
-
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/AMS.gif">
-
-### Video demo
-
-[Youtube](https://www.youtube.com/watch?v=dXViSRRydRs)
-
 
 ### Notes
 - It will require high processing power(I have 8 GB RAM & 2 GB GC)
